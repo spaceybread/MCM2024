@@ -1,0 +1,804 @@
+on 1: found 3568 3863 base
+on 1: found 3568 3861 rad
+on 1: found 3568 3863 sweep
+on 1: clear
+on 2: found 4714 1570 base
+on 2: found 4714 1569 rad
+on 2: found 4714 1570 sweep
+on 2: clear
+on 3: found 4549 1901 base
+on 3: found 4549 1899 rad
+on 3: found 4549 1901 sweep
+on 3: clear
+on 4: found 1351 8298 base
+on 4: found 1351 8295 rad
+on 4: found 1351 8298 sweep
+on 4: clear
+on 5: found 2875 5249 base
+on 5: found 2875 5247 rad
+on 5: found 2875 5249 sweep
+on 5: clear
+on 6: found 4170 2659 base
+on 6: found 4170 2657 rad
+on 6: found 4170 2659 sweep
+on 6: clear
+on 7: found 3038 4921 base
+on 7: found 3038 4921 rad
+on 7: found 3038 4921 sweep
+on 7: clear
+on 8: found 1547 7906 base
+on 8: found 1547 7903 rad
+on 8: found 1547 7906 sweep
+on 8: clear
+on 9: found 4589 1819 base
+on 9: found 4589 1819 rad
+on 9: found 4589 1819 sweep
+on 9: clear
+on 10: found 2874 5252 base
+on 10: found 2874 5249 rad
+on 10: found 2874 5252 sweep
+on 10: clear
+on 11: found 3975 3047 base
+on 11: found 3975 3047 rad
+on 11: found 3975 3047 sweep
+on 11: clear
+on 12: found 1716 7568 base
+on 12: found 1716 7565 rad
+on 12: found 1716 7568 sweep
+on 12: clear
+on 13: found 2744 5509 base
+on 13: found 2744 5509 rad
+on 13: found 2744 5509 sweep
+on 13: clear
+on 14: found 1872 7256 base
+on 14: found 1872 7253 rad
+on 14: found 1872 7256 sweep
+on 14: clear
+on 15: found 2678 5643 base
+on 15: found 2678 5641 rad
+on 15: found 2678 5643 sweep
+on 15: clear
+on 16: found 2433 6131 base
+on 16: found 2433 6131 rad
+on 16: found 2433 6131 sweep
+on 16: clear
+on 17: found 2133 6731 base
+on 17: found 2133 6731 rad
+on 17: found 2133 6731 sweep
+on 17: clear
+on 18: found 4625 1750 base
+on 18: found 4625 1747 rad
+on 18: found 4625 1750 sweep
+on 18: clear
+on 19: found 1504 7992 base
+on 19: found 1504 7989 rad
+on 19: found 1504 7992 sweep
+on 19: clear
+on 20: found 3358 4281 base
+on 20: found 3358 4281 rad
+on 20: found 3358 4281 sweep
+on 20: clear
+on 21: found 4081 2837 base
+on 21: found 4081 2835 rad
+on 21: found 4081 2837 sweep
+on 21: clear
+on 22: found 2811 5377 base
+on 22: found 2811 5375 rad
+on 22: found 2811 5377 sweep
+on 22: clear
+on 23: found 2225 6548 base
+on 23: found 2225 6547 rad
+on 23: found 2225 6548 sweep
+on 23: clear
+on 24: found 1964 7072 base
+on 24: found 1964 7069 rad
+on 24: found 1964 7072 sweep
+on 24: clear
+on 25: found 4173 2654 base
+on 25: found 4173 2651 rad
+on 25: found 4173 2654 sweep
+on 25: clear
+on 26: found 4057 2884 base
+on 26: found 4057 2883 rad
+on 26: found 4057 2884 sweep
+on 26: clear
+on 27: found 2681 5636 base
+on 27: found 2681 5635 rad
+on 27: found 2681 5636 sweep
+on 27: clear
+on 28: found 1186 8628 base
+on 28: found 1186 8625 rad
+on 28: found 1186 8628 sweep
+on 28: clear
+on 29: found 3118 4764 base
+on 29: found 3118 4761 rad
+on 29: found 3118 4764 sweep
+on 29: clear
+on 30: found 1726 7546 base
+on 30: found 1726 7545 rad
+on 30: found 1726 7546 sweep
+on 30: clear
+on 31: found 3282 4433 base
+on 31: found 3282 4433 rad
+on 31: found 3282 4433 sweep
+on 31: clear
+on 32: found 1414 8169 base
+on 32: found 1414 8169 rad
+on 32: found 1414 8169 sweep
+on 32: clear
+on 33: found 2213 6572 base
+on 33: found 2213 6571 rad
+on 33: found 2213 6572 sweep
+on 33: clear
+on 34: found 4335 2329 base
+on 34: found 4335 2327 rad
+on 34: found 4335 2329 sweep
+on 34: clear
+on 35: found 1235 8527 base
+on 35: found 1235 8527 rad
+on 35: found 1235 8527 sweep
+on 35: clear
+on 36: found 2315 6367 base
+on 36: found 2315 6367 rad
+on 36: found 2315 6367 sweep
+on 36: clear
+on 37: found 3579 3840 base
+on 37: found 3579 3839 rad
+on 37: found 3579 3840 sweep
+on 37: clear
+on 38: found 2712 5574 base
+on 38: found 2712 5573 rad
+on 38: found 2712 5574 sweep
+on 38: clear
+on 39: found 3344 4312 base
+on 39: found 3344 4309 rad
+on 39: found 3344 4312 sweep
+on 39: clear
+on 40: found 1382 8233 base
+on 40: found 1382 8233 rad
+on 40: found 1382 8233 sweep
+on 40: clear
+on 41: found 4152 2693 base
+on 41: found 4152 2693 rad
+on 41: found 4152 2693 sweep
+on 41: clear
+on 42: found 1936 7126 base
+on 42: found 1936 7125 rad
+on 42: found 1936 7126 sweep
+on 42: clear
+on 43: found 3358 4281 base
+on 43: found 3358 4281 rad
+on 43: found 3358 4281 sweep
+on 43: clear
+on 44: found 3188 4622 base
+on 44: found 3188 4621 rad
+on 44: found 3188 4622 sweep
+on 44: clear
+on 45: found 2256 6485 base
+on 45: found 2256 6485 rad
+on 45: found 2256 6485 sweep
+on 45: clear
+on 46: found 2541 5917 base
+on 46: found 2541 5915 rad
+on 46: found 2541 5917 sweep
+on 46: clear
+on 47: found 3668 3664 base
+on 47: found 3668 3661 rad
+on 47: found 3668 3664 sweep
+on 47: clear
+on 48: found 4168 2661 base
+on 48: found 4168 2661 rad
+on 48: found 4168 2661 sweep
+on 48: clear
+on 49: found 1593 7814 base
+on 49: found 1593 7811 rad
+on 49: found 1593 7814 sweep
+on 49: clear
+on 50: found 2218 6564 base
+on 50: found 2218 6561 rad
+on 50: found 2218 6564 sweep
+on 50: clear
+on 51: found 3466 4068 base
+on 51: found 3466 4065 rad
+on 51: found 3466 4068 sweep
+on 51: clear
+on 52: found 4089 2822 base
+on 52: found 4089 2819 rad
+on 52: found 4089 2822 sweep
+on 52: clear
+on 53: found 3314 4370 base
+on 53: found 3314 4369 rad
+on 53: found 3314 4370 sweep
+on 53: clear
+on 54: found 1367 8263 base
+on 54: found 1367 8263 rad
+on 54: found 1367 8263 sweep
+on 54: clear
+on 55: found 3467 4064 base
+on 55: found 3467 4063 rad
+on 55: found 3467 4064 sweep
+on 55: clear
+on 56: found 4739 1519 base
+on 56: found 4739 1519 rad
+on 56: found 4739 1519 sweep
+on 56: clear
+on 57: found 2071 6858 base
+on 57: found 2071 6855 rad
+on 57: found 2071 6858 sweep
+on 57: clear
+on 58: found 3932 3136 base
+on 58: found 3932 3133 rad
+on 58: found 3932 3136 sweep
+on 58: clear
+on 59: found 3968 3062 base
+on 59: found 3968 3061 rad
+on 59: found 3968 3062 sweep
+on 59: clear
+on 60: found 3428 4144 base
+on 60: found 3428 4141 rad
+on 60: found 3428 4144 sweep
+on 60: clear
+on 61: found 2665 5669 base
+on 61: found 2665 5667 rad
+on 61: found 2665 5669 sweep
+on 61: clear
+on 62: found 3861 3276 base
+on 62: found 3861 3275 rad
+on 62: found 3861 3276 sweep
+on 62: clear
+on 63: found 1145 8710 base
+on 63: found 1145 8707 rad
+on 63: found 1145 8710 sweep
+on 63: clear
+on 64: found 3211 4575 base
+on 64: found 3211 4575 rad
+on 64: found 3211 4575 sweep
+on 64: clear
+on 65: found 2521 5955 base
+on 65: found 2521 5955 rad
+on 65: found 2521 5955 sweep
+on 65: clear
+on 66: found 1481 8038 base
+on 66: found 1481 8035 rad
+on 66: found 1481 8038 sweep
+on 66: clear
+on 67: found 2779 5439 base
+on 67: found 2779 5439 rad
+on 67: found 2779 5439 sweep
+on 67: clear
+on 68: found 2658 5683 base
+on 68: found 2658 5681 rad
+on 68: found 2658 5683 sweep
+on 68: clear
+on 69: found 3197 4606 base
+on 69: found 3197 4603 rad
+on 69: found 3197 4606 sweep
+on 69: clear
+on 70: found 1591 7816 base
+on 70: found 1591 7815 rad
+on 70: found 1591 7816 sweep
+on 70: clear
+on 71: found 4148 2704 base
+on 71: found 4148 2701 rad
+on 71: found 4148 2704 sweep
+on 71: clear
+on 72: found 1430 8138 base
+on 72: found 1430 8137 rad
+on 72: found 1430 8138 sweep
+on 72: clear
+on 73: found 1730 7540 base
+on 73: found 1730 7537 rad
+on 73: found 1730 7540 sweep
+on 73: clear
+on 74: found 3846 3307 base
+on 74: found 3846 3305 rad
+on 74: found 3846 3307 sweep
+on 74: clear
+on 75: found 2340 6318 base
+on 75: found 2340 6317 rad
+on 75: found 2340 6318 sweep
+on 75: clear
+on 76: found 2851 5295 base
+on 76: found 2851 5295 rad
+on 76: found 2851 5295 sweep
+on 76: clear
+on 77: found 4441 2115 base
+on 77: found 4441 2115 rad
+on 77: found 4441 2115 sweep
+on 77: clear
+on 78: found 3598 3803 base
+on 78: found 3598 3801 rad
+on 78: found 3598 3803 sweep
+on 78: clear
+on 79: found 2477 6046 base
+on 79: found 2477 6043 rad
+on 79: found 2477 6046 sweep
+on 79: clear
+on 80: found 4255 2488 base
+on 80: found 4255 2487 rad
+on 80: found 4255 2488 sweep
+on 80: clear
+on 81: found 1922 7155 base
+on 81: found 1922 7153 rad
+on 81: found 1922 7155 sweep
+on 81: clear
+on 82: found 3566 3866 base
+on 82: found 3566 3865 rad
+on 82: found 3566 3866 sweep
+on 82: clear
+on 83: found 3093 4812 base
+on 83: found 3093 4811 rad
+on 83: found 3093 4812 sweep
+on 83: clear
+on 84: found 4634 1730 base
+on 84: found 4634 1729 rad
+on 84: found 4634 1730 sweep
+on 84: clear
+on 85: found 1006 8987 base
+on 85: found 1006 8985 rad
+on 85: found 1006 8987 sweep
+on 85: clear
+on 86: found 1774 7451 base
+on 86: found 1774 7449 rad
+on 86: found 1774 7451 sweep
+on 86: clear
+on 87: found 2632 5736 base
+on 87: found 2632 5733 rad
+on 87: found 2632 5736 sweep
+on 87: clear
+on 88: found 1482 8036 base
+on 88: found 1482 8033 rad
+on 88: found 1482 8036 sweep
+on 88: clear
+on 89: found 2836 5325 base
+on 89: found 2836 5325 rad
+on 89: found 2836 5325 sweep
+on 89: clear
+on 90: found 2054 6890 base
+on 90: found 2054 6889 rad
+on 90: found 2054 6890 sweep
+on 90: clear
+on 91: found 2092 6815 base
+on 91: found 2092 6813 rad
+on 91: found 2092 6815 sweep
+on 91: clear
+on 92: found 1468 8062 base
+on 92: found 1468 8061 rad
+on 92: found 1468 8062 sweep
+on 92: clear
+on 93: found 3955 3087 base
+on 93: found 3955 3087 rad
+on 93: found 3955 3087 sweep
+on 93: clear
+on 94: found 2276 6445 base
+on 94: found 2276 6445 rad
+on 94: found 2276 6445 sweep
+on 94: clear
+on 95: found 1004 8991 base
+on 95: found 1004 8989 rad
+on 95: found 1004 8991 sweep
+on 95: clear
+on 96: found 3764 3471 base
+on 96: found 3764 3469 rad
+on 96: found 3764 3471 sweep
+on 96: clear
+on 97: found 2718 5563 base
+on 97: found 2718 5561 rad
+on 97: found 2718 5563 sweep
+on 97: clear
+on 98: found 3794 3411 base
+on 98: found 3794 3409 rad
+on 98: found 3794 3411 sweep
+on 98: clear
+on 99: found 3615 3769 base
+on 99: found 3615 3767 rad
+on 99: found 3615 3769 sweep
+on 99: clear
+on 100: found 1026 8946 base
+on 100: found 1026 8945 rad
+on 100: found 1026 8946 sweep
+on 100: clear
+on 101: found 4673 1654 base
+on 101: found 4673 1651 rad
+on 101: found 4673 1654 sweep
+on 101: clear
+on 102: found 2774 5451 base
+on 102: found 2774 5449 rad
+on 102: found 2774 5451 sweep
+on 102: clear
+on 103: found 3531 3938 base
+on 103: found 3531 3935 rad
+on 103: found 3531 3938 sweep
+on 103: clear
+on 104: found 1133 8733 base
+on 104: found 1133 8731 rad
+on 104: found 1133 8733 sweep
+on 104: clear
+on 105: found 3183 4631 base
+on 105: found 3183 4631 rad
+on 105: found 3183 4631 sweep
+on 105: clear
+on 106: found 4368 2263 base
+on 106: found 4368 2261 rad
+on 106: found 4368 2263 sweep
+on 106: clear
+on 107: found 3639 3721 base
+on 107: found 3639 3719 rad
+on 107: found 3639 3721 sweep
+on 107: clear
+on 108: found 2035 6928 base
+on 108: found 2035 6927 rad
+on 108: found 2035 6928 sweep
+on 108: clear
+on 109: found 4613 1773 base
+on 109: found 4613 1771 rad
+on 109: found 4613 1773 sweep
+on 109: clear
+on 110: found 2576 5847 base
+on 110: found 2576 5845 rad
+on 110: found 2576 5847 sweep
+on 110: clear
+on 111: found 3213 4572 base
+on 111: found 3213 4571 rad
+on 111: found 3213 4572 sweep
+on 111: clear
+on 112: found 4165 2669 base
+on 112: found 4165 2667 rad
+on 112: found 4165 2669 sweep
+on 112: clear
+on 113: found 2751 5495 base
+on 113: found 2751 5495 rad
+on 113: found 2751 5495 sweep
+on 113: clear
+on 114: found 3440 4119 base
+on 114: found 3440 4117 rad
+on 114: found 3440 4119 sweep
+on 114: clear
+on 115: found 3632 3736 base
+on 115: found 3632 3733 rad
+on 115: found 3632 3736 sweep
+on 115: clear
+on 116: found 1061 8877 base
+on 116: found 1061 8875 rad
+on 116: found 1061 8877 sweep
+on 116: clear
+on 117: found 2401 6198 base
+on 117: found 2401 6195 rad
+on 117: found 2401 6198 sweep
+on 117: clear
+on 118: found 3784 3431 base
+on 118: found 3784 3429 rad
+on 118: found 3784 3431 sweep
+on 118: clear
+on 119: found 4490 2019 base
+on 119: found 4490 2017 rad
+on 119: found 4490 2019 sweep
+on 119: clear
+on 120: found 4703 1591 base
+on 120: found 4703 1591 rad
+on 120: found 4703 1591 sweep
+on 120: clear
+on 121: found 4322 2355 base
+on 121: found 4322 2353 rad
+on 121: found 4322 2355 sweep
+on 121: clear
+on 122: found 3036 4926 base
+on 122: found 3036 4925 rad
+on 122: found 3036 4926 sweep
+on 122: clear
+on 123: found 3380 4239 base
+on 123: found 3380 4237 rad
+on 123: found 3380 4239 sweep
+on 123: clear
+on 124: found 1326 8345 base
+on 124: found 1326 8345 rad
+on 124: found 1326 8345 sweep
+on 124: clear
+on 125: found 1912 7176 base
+on 125: found 1912 7173 rad
+on 125: found 1912 7176 sweep
+on 125: clear
+on 126: found 3508 3983 base
+on 126: found 3508 3981 rad
+on 126: found 3508 3983 sweep
+on 126: clear
+on 127: found 3966 3068 base
+on 127: found 3966 3065 rad
+on 127: found 3966 3068 sweep
+on 127: clear
+on 128: found 3764 3470 base
+on 128: found 3764 3469 rad
+on 128: found 3764 3470 sweep
+on 128: clear
+on 129: found 2419 6161 base
+on 129: found 2419 6159 rad
+on 129: found 2419 6161 sweep
+on 129: clear
+on 130: found 2806 5388 base
+on 130: found 2806 5385 rad
+on 130: found 2806 5388 sweep
+on 130: clear
+on 131: found 2042 6914 base
+on 131: found 2042 6913 rad
+on 131: found 2042 6914 sweep
+on 131: clear
+on 132: found 2836 5325 base
+on 132: found 2836 5325 rad
+on 132: found 2836 5325 sweep
+on 132: clear
+on 133: found 2560 5877 base
+on 133: found 2560 5877 rad
+on 133: found 2560 5877 sweep
+on 133: clear
+on 134: found 1664 7669 base
+on 134: found 1664 7669 rad
+on 134: found 1664 7669 sweep
+on 134: clear
+on 135: found 4266 2468 base
+on 135: found 4266 2465 rad
+on 135: found 4266 2468 sweep
+on 135: clear
+on 136: found 1687 7625 base
+on 136: found 1687 7623 rad
+on 136: found 1687 7625 sweep
+on 136: clear
+on 137: found 2812 5375 base
+on 137: found 2812 5373 rad
+on 137: found 2812 5375 sweep
+on 137: clear
+on 138: found 4484 2029 base
+on 138: found 4484 2029 rad
+on 138: found 4484 2029 sweep
+on 138: clear
+on 139: found 1750 7500 base
+on 139: found 1750 7497 rad
+on 139: found 1750 7500 sweep
+on 139: clear
+on 140: found 2433 6134 base
+on 140: found 2433 6131 rad
+on 140: found 2433 6134 sweep
+on 140: clear
+on 141: found 1903 7191 base
+on 141: found 1903 7191 rad
+on 141: found 1903 7191 sweep
+on 141: clear
+on 142: found 3841 3316 base
+on 142: found 3841 3315 rad
+on 142: found 3841 3316 sweep
+on 142: clear
+on 143: found 4164 2670 base
+on 143: found 4164 2669 rad
+on 143: found 4164 2670 sweep
+on 143: clear
+on 144: found 1459 8079 base
+on 144: found 1459 8079 rad
+on 144: found 1459 8079 sweep
+on 144: clear
+on 145: found 2054 6892 base
+on 145: found 2054 6889 rad
+on 145: found 2054 6892 sweep
+on 145: clear
+on 146: found 1137 8726 base
+on 146: found 1137 8723 rad
+on 146: found 1137 8726 sweep
+on 146: clear
+on 147: found 2793 5413 base
+on 147: found 2793 5411 rad
+on 147: found 2793 5413 sweep
+on 147: clear
+on 148: found 4639 1719 base
+on 148: found 4639 1719 rad
+on 148: found 4639 1719 sweep
+on 148: clear
+on 149: found 2391 6216 base
+on 149: found 2391 6215 rad
+on 149: found 2391 6216 sweep
+on 149: clear
+on 150: found 4422 2156 base
+on 150: found 4422 2153 rad
+on 150: found 4422 2156 sweep
+on 150: clear
+on 151: found 1931 7138 base
+on 151: found 1931 7135 rad
+on 151: found 1931 7138 sweep
+on 151: clear
+on 152: found 1964 7071 base
+on 152: found 1964 7069 rad
+on 152: found 1964 7071 sweep
+on 152: clear
+on 153: found 1100 8799 base
+on 153: found 1100 8797 rad
+on 153: found 1100 8799 sweep
+on 153: clear
+on 154: found 4240 2520 base
+on 154: found 4240 2517 rad
+on 154: found 4240 2520 sweep
+on 154: clear
+on 155: found 3039 4922 base
+on 155: found 3039 4919 rad
+on 155: found 3039 4922 sweep
+on 155: clear
+on 156: found 1374 8249 base
+on 156: found 1374 8249 rad
+on 156: found 1374 8249 sweep
+on 156: clear
+on 157: found 1703 7594 base
+on 157: found 1703 7591 rad
+on 157: found 1703 7594 sweep
+on 157: clear
+on 158: found 1369 8262 base
+on 158: found 1369 8259 rad
+on 158: found 1369 8262 sweep
+on 158: clear
+on 159: found 1858 7282 base
+on 159: found 1858 7281 rad
+on 159: found 1858 7282 sweep
+on 159: clear
+on 160: found 4086 2827 base
+on 160: found 4086 2825 rad
+on 160: found 4086 2827 sweep
+on 160: clear
+on 161: found 3982 3036 base
+on 161: found 3982 3033 rad
+on 161: found 3982 3036 sweep
+on 161: clear
+on 162: found 1130 8737 base
+on 162: found 1130 8737 rad
+on 162: found 1130 8737 sweep
+on 162: clear
+on 163: found 4113 2771 base
+on 163: found 4113 2771 rad
+on 163: found 4113 2771 sweep
+on 163: clear
+on 164: found 2340 6317 base
+on 164: found 2340 6317 rad
+on 164: found 2340 6317 sweep
+on 164: clear
+on 165: found 4171 2657 base
+on 165: found 4171 2655 rad
+on 165: found 4171 2657 sweep
+on 165: clear
+on 166: found 3348 4304 base
+on 166: found 3348 4301 rad
+on 166: found 3348 4304 sweep
+on 166: clear
+on 167: found 2809 5380 base
+on 167: found 2809 5379 rad
+on 167: found 2809 5380 sweep
+on 167: clear
+on 168: found 4439 2120 base
+on 168: found 4439 2119 rad
+on 168: found 4439 2120 sweep
+on 168: clear
+on 169: found 2299 6400 base
+on 169: found 2299 6399 rad
+on 169: found 2299 6400 sweep
+on 169: clear
+on 170: found 3824 3350 base
+on 170: found 3824 3349 rad
+on 170: found 3824 3350 sweep
+on 170: clear
+on 171: found 2126 6746 base
+on 171: found 2126 6745 rad
+on 171: found 2126 6746 sweep
+on 171: clear
+on 172: found 1523 7953 base
+on 172: found 1523 7951 rad
+on 172: found 1523 7953 sweep
+on 172: clear
+on 173: found 3019 4959 base
+on 173: found 3019 4959 rad
+on 173: found 3019 4959 sweep
+on 173: clear
+on 174: found 1285 8429 base
+on 174: found 1285 8427 rad
+on 174: found 1285 8429 sweep
+on 174: clear
+on 175: found 3676 3648 base
+on 175: found 3676 3645 rad
+on 175: found 3676 3648 sweep
+on 175: clear
+on 176: found 2521 5957 base
+on 176: found 2521 5955 rad
+on 176: found 2521 5957 sweep
+on 176: clear
+on 177: found 1721 7558 base
+on 177: found 1721 7555 rad
+on 177: found 1721 7558 sweep
+on 177: clear
+on 178: found 2752 5494 base
+on 178: found 2752 5493 rad
+on 178: found 2752 5494 sweep
+on 178: clear
+on 179: found 4733 1532 base
+on 179: found 4733 1531 rad
+on 179: found 4733 1532 sweep
+on 179: clear
+on 180: found 3292 4414 base
+on 180: found 3292 4413 rad
+on 180: found 3292 4414 sweep
+on 180: clear
+on 181: found 4026 2946 base
+on 181: found 4026 2945 rad
+on 181: found 4026 2946 sweep
+on 181: clear
+on 182: found 1785 7429 base
+on 182: found 1785 7427 rad
+on 182: found 1785 7429 sweep
+on 182: clear
+on 183: found 2995 5009 base
+on 183: found 2995 5007 rad
+on 183: found 2995 5009 sweep
+on 183: clear
+on 184: found 2720 5559 base
+on 184: found 2720 5557 rad
+on 184: found 2720 5559 sweep
+on 184: clear
+on 185: found 3933 3132 base
+on 185: found 3933 3131 rad
+on 185: found 3933 3132 sweep
+on 185: clear
+on 186: found 3630 3739 base
+on 186: found 3630 3737 rad
+on 186: found 3630 3739 sweep
+on 186: clear
+on 187: found 1074 8851 base
+on 187: found 1074 8849 rad
+on 187: found 1074 8851 sweep
+on 187: clear
+on 188: found 4657 1683 base
+on 188: found 4657 1683 rad
+on 188: found 4657 1683 sweep
+on 188: clear
+on 189: found 2319 6362 base
+on 189: found 2319 6359 rad
+on 189: found 2319 6362 sweep
+on 189: clear
+on 190: found 3595 3810 base
+on 190: found 3595 3807 rad
+on 190: found 3595 3810 sweep
+on 190: clear
+on 191: found 1613 7772 base
+on 191: found 1613 7771 rad
+on 191: found 1613 7772 sweep
+on 191: clear
+on 192: found 4257 2485 base
+on 192: found 4257 2483 rad
+on 192: found 4257 2485 sweep
+on 192: clear
+on 193: found 2439 6119 base
+on 193: found 2439 6119 rad
+on 193: found 2439 6119 sweep
+on 193: clear
+on 194: found 1965 7067 base
+on 194: found 1965 7067 rad
+on 194: found 1965 7067 sweep
+on 194: clear
+on 195: found 2413 6173 base
+on 195: found 2413 6171 rad
+on 195: found 2413 6173 sweep
+on 195: clear
+on 196: found 1881 7238 base
+on 196: found 1881 7235 rad
+on 196: found 1881 7238 sweep
+on 196: clear
+on 197: found 3420 4158 base
+on 197: found 3420 4157 rad
+on 197: found 3420 4158 sweep
+on 197: clear
+on 198: found 4113 2773 base
+on 198: found 4113 2771 rad
+on 198: found 4113 2773 sweep
+on 198: clear
+on 199: found 7451 7072 base
+on 199: found 7353 7071 rad
+on 199: found 7451 7072 sweep
+on 199: clear
+on 200: found 3427 4143 base
+on 200: found 3427 4143 rad
+on 200: found 3427 4143 sweep
+on 200: clear
+|████████████████████████████████████████| 200/200 [100%] in 26:47.7 (0.12/s) 
+200 200 200
+0.0016760826110839844 0.008024930953979492 0.0027871131896972656
+0.5077025890350342 29.647830963134766 2.8249831199645996
